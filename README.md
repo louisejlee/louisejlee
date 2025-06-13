@@ -1,9 +1,9 @@
 ## Hi, I'm Louise 🧋
 
-📈 Management Engineering student
-📚 University of Waterloo
-🍉 Let's connect!
-✨ Pronouns: she/her
+# 📈 Management Engineering student
+# 📚 University of Waterloo
+# 🍉 Let's connect!
+# ✨ Pronouns: she/her
 
 
 ## 🌐 Socials:
